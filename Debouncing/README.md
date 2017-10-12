@@ -5,3 +5,5 @@ The purpose of this lab is to eliminate the button bounce.  The bouncing of a bu
 
 ## Board Features
 All boards function the same way.  When a button is pressed on the board the Red LED will turn on/off.
+
+![](https://media.giphy.com/media/3ov9k7EOnOUcq3ZQpq/giphy.gif)
