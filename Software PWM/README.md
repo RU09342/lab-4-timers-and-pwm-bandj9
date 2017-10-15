@@ -4,4 +4,5 @@ This program begins with intiailizing the device and setting up the inputs and o
 
 ## Project Demonstration
 Below the MSP430G2553 board is used to demonstrate the software PWM.
+
 ![](https://media.giphy.com/media/3o7aDa12x754vG7xmw/giphy.gif)
