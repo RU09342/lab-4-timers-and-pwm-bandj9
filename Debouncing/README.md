@@ -13,3 +13,7 @@ All of the boards had similar code to run the button blink program. There were t
 This project is done on an MSP430G2553. When a button is pressed on the board the Red LED will turn on/off without and problems when holding down the button.
 
 ![](https://media.giphy.com/media/xT9IgIeCpTodPFeOKk/giphy.gif)
+
+# Extra Work
+## Multiple Switch Debouncing
+This code is very similar to the one switch debouncing, but another button can be pressed and it will function the same way.  
